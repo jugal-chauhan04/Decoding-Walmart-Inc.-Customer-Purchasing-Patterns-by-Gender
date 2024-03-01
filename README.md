@@ -1,6 +1,6 @@
 # Statistical Data Analysis - Analyzing Customer Behaviour Patterns  
 
-This project showcases the application of data visualization techniques to perform Exploratory Data Analysis to unravel gender disparities, with Walmart Inc. serving as a case study.
+Examining buying habits by gender, age, and marital status through visuals and stats to reveal insights. This analysis helps businesses make better decisions and improve marketing strategies
 
 ## Problem Description  
 
