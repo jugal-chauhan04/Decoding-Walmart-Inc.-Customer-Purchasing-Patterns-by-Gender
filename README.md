@@ -105,7 +105,32 @@ Based on the analysis of the Age group which was divided into 7 groups. We can c
 ## Conclusion  
 
 
-In this research project, we delved into understanding customer purchasing behavior at Walmart using a diverse customer data. The study employed a variety of analytical techniques, including univariate analysis, bivariate analysis, and the application of the Central Limit Theorem (CLT).The univariate analysis revealed that men tend to be more significant spenders than women, with the highest spenders belonging to the 50+ age group and being unmarried. Bivariate analysis showed us that unmarried individuals consistently exhibited higher spending across all age groups, and males tended to spend more than females, especially in [50-55] bracket. The implementation of the Central Limit Theorem allowed for a more robust statistical analysis, providing confidence intervals around the sample means for spending patterns within different demographic categories. The results confirmed that, with an increasing sample size, the spending difference between genders became more pronounced, emphasizing that males generally spend more than females.Furthermore, the analysis of marital status indicated a relatively minor spending difference between married and unmarried individuals. In the age category, customers in the 51-55 age group were identified as the highest spenders, while those in the 0-17 age group spent the least. These findings contribute valuable insights for decision-making and enabling Walmart and similar businesses to tailor marketing strategies, inventory planning, and customer experiences to the specific preferences and behaviors of their customers. Overall, this research provides a comprehensive understanding of consumer behavior which helps in making useful decisions.
+In this research project, we delved into understanding customer purchasing behavior at Walmart using a diverse customer data. The study employed a variety of analytical techniques, including univariate analysis, bivariate analysis, and the application of the Central Limit Theorem (CLT).The univariate analysis revealed that men tend to be more significant spenders than women, with the highest spenders belonging to the 50+ age group and being unmarried. Bivariate analysis showed us that unmarried individuals consistently exhibited higher spending across all age groups, and males tended to spend more than females, especially in [50-55] bracket. The implementation of the Central Limit Theorem allowed for a more robust statistical analysis, providing confidence intervals around the sample means for spending patterns within different demographic categories. The results confirmed that, with an increasing sample size, the spending difference between genders became more pronounced, emphasizing that males generally spend more than females.Furthermore, the analysis of marital status indicated a relatively minor spending difference between married and unmarried individuals. In the age category, customers in the 51-55 age group were identified as the highest spenders, while those in the 0-17 age group spent the least. These findings contribute valuable insights for decision-making and enabling Walmart and similar businesses to tailor marketing strategies, inventory planning, and customer experiences to the specific preferences and behaviors of their customers. Overall, this research provides a comprehensive understanding of consumer behavior which helps in making useful decisions.  
+
+## References  
+
+1. Tengli A, Srinivasan SH. An Exploratory Study to 
+Identify the Gender-Based Purchase Behavior of 
+Consumers of Natural Cosmetics. Cosmetics. 2022; 
+9(5):101. 
+https://doi.org/10.3390/cosmetics9050101
+
+2. Pakasi, A., & Tumiwa, J. (2016). Comparison 
+analysis between male and female of consumer 
+purchase behavior of Yamaha Mio. Jurnal EMBA: 
+Jurnal Riset Ekonomi, Manajemen, Bisnis dan 
+Akuntansi, 4(1).
+4. Ronaghi, M., Danae, H., & Haghtalab, H. (2013). 
+Survey of effects of gender on consumer behavior; 
+case study on mobile phone. International Journal 
+of Advanced Studies in Humanities and Social 
+Science, 1(8), 1024-1033.
+5. Abir Smiti, A critical overview of outlier detection 
+methods, Computer Science Review, Volume 
+38,2020, 100306, ISSN 1574-0137,
+https://doi.org/10.1016/j.cosrev.2020.100306.
+(https://www.sciencedirect.com/science/article/pii/
+S1574013720304068)
 
 
 
