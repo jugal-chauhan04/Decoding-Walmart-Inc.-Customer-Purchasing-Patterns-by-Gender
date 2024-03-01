@@ -1,4 +1,5 @@
-# Decoding-Walmart-Inc.-Customer-Purchasing-Patterns-by-Gender
+# Statistical Data Analysis - Analyzing Customer Behaviour Patterns  
+
 This project showcases the application of data visualization techniques to perform Exploratory Data Analysis to unravel gender disparities, with Walmart Inc. serving as a case study.
 
 ## Problem Description  
