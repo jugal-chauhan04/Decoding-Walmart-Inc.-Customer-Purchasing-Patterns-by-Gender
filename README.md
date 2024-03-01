@@ -102,10 +102,22 @@ Here, using CLT we can see that increasing the sample size does not result into 
 
 Based on the analysis of the Age group which was divided into 7 groups. We can conclude that customers in the age group of 0-17 spent the lowest compared to the age group of 51-55 which spent the highest. The other age groups has almost similar spending.  
 
-## Conclusion  
+## Key Findings:
 
+1. Univariate analysis highlighted:
+   * Men tend to spend more than women.
+   * Highest spenders are 50+ and unmarried.
+2. Bivariate analysis revealed:
+   * Unmarried individuals consistently exhibit higher spending.
+   * Males spend more than females, especially in [50-55] bracket.
 
-In this research project, we delved into understanding customer purchasing behavior at Walmart using a diverse customer data. The study employed a variety of analytical techniques, including univariate analysis, bivariate analysis, and the application of the Central Limit Theorem (CLT).The univariate analysis revealed that men tend to be more significant spenders than women, with the highest spenders belonging to the 50+ age group and being unmarried. Bivariate analysis showed us that unmarried individuals consistently exhibited higher spending across all age groups, and males tended to spend more than females, especially in [50-55] bracket. The implementation of the Central Limit Theorem allowed for a more robust statistical analysis, providing confidence intervals around the sample means for spending patterns within different demographic categories. The results confirmed that, with an increasing sample size, the spending difference between genders became more pronounced, emphasizing that males generally spend more than females.Furthermore, the analysis of marital status indicated a relatively minor spending difference between married and unmarried individuals. In the age category, customers in the 51-55 age group were identified as the highest spenders, while those in the 0-17 age group spent the least. These findings contribute valuable insights for decision-making and enabling Walmart and similar businesses to tailor marketing strategies, inventory planning, and customer experiences to the specific preferences and behaviors of their customers. Overall, this research provides a comprehensive understanding of consumer behavior which helps in making useful decisions.  
+3. Central Limit Theorem analysis:
+   * Confirmed increasing sample size accentuates spending difference between genders.
+   * Emphasized that males generally spend more than females.
+
+4. Additional Insights:
+   * Marital status has a relatively minor impact on spending.
+   * In the age category, customers aged 51-55 are the highest spenders, while those aged 0-17 spend the least.
 
 ## References  
 
