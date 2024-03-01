@@ -1,4 +1,4 @@
-AMOD 5430 PROJECT: Analyzing Gender-Based Purchase Behavior on Black Friday: A Study of Walmart Inc. Customers
+Analyzing Gender-Based Purchase Behavior on Black Friday: A Study of Walmart Inc. Customers
 
 CONTENTS:
 
